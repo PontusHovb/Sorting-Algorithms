@@ -1,0 +1,7 @@
+.vscode
+.DS_Store
+sorting
+gui.o
+help_functions.o
+sorting_algorithms.o
+Visualizations/Data.xlsx
